@@ -120,11 +120,11 @@ https://nithisvaran-m.github.io/Login-pages/
 
 # 📸 Preview
 
+<img width="697" height="469" alt="LOGIN" src="https://github.com/user-attachments/assets/6408ba98-b1f7-47d3-8aa6-25d220a7db18" />
 
 
 ```markdown
-<img width="697" height="469" alt="LOGIN" src="https://github.com/user-attachments/assets/bf114a50-3e6c-485a-a7b6-ef8bb4ce422a" />
-
+![Preview](screenshot.png)
 ```
 
 ---
