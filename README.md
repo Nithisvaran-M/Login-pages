@@ -4,6 +4,18 @@
 
 ### Modern Responsive Authentication UI Built with HTML, CSS & JavaScript
 
+<br>
+
+<a href="https://nithisvaran-m.github.io/Login-pages/">
+  <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Website-0A66C2?style=for-the-badge">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Login%20%26%20Registration%20Page&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3">
@@ -15,29 +27,38 @@
 
 ---
 
-# 📌 Overview
+# 📌 Live Website
+
+## 🌍 Hosted Project
+
+👉 **Live Demo:**  
+https://nithisvaran-m.github.io/Login-pages/
+
+---
+
+# 📖 Overview
 
 A stylish and responsive **Login & Registration Page** featuring animated transitions, social login icons, and a clean modern UI design.
 
-This project is beginner-friendly and perfect for:
+This project is ideal for:
 
-- Frontend practice
-- UI/UX learning
-- Portfolio projects
-- Authentication page templates
-- Web design inspiration
+- Frontend Practice
+- Portfolio Projects
+- Authentication UI Design
+- JavaScript Beginners
+- Responsive Web Design Learning
 
 ---
 
 # ✨ Features
 
-✅ Responsive Design  
-✅ Animated Login/Register Toggle  
-✅ Modern UI Interface  
-✅ Social Media Icons Integration  
-✅ Smooth User Experience  
-✅ Beginner Friendly Code Structure  
-✅ Lightweight & Fast
+✅ Responsive Layout  
+✅ Animated Login/Register Switch  
+✅ Modern Glassmorphism UI  
+✅ Social Media Icons  
+✅ Smooth Transitions  
+✅ Clean Code Structure  
+✅ Mobile Friendly
 
 ---
 
@@ -67,23 +88,17 @@ LOGIN/
 
 # 🚀 Getting Started
 
-## 1️⃣ Clone the Repository
+## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/login-pages.git
+git clone https://github.com/nithisvaran-m/Login-pages.git
 ```
 
 ---
 
-## 2️⃣ Open the Project
+## Run the Project
 
-Open the folder in **VS Code** or any code editor.
-
----
-
-## 3️⃣ Run the Project
-
-Simply open:
+Open:
 
 ```txt
 index.html
@@ -93,27 +108,19 @@ in your browser.
 
 ---
 
-# 🌐 GitHub Pages Hosting
+# 🌐 GitHub Pages Deployment
 
-If your repository structure is:
+This project is hosted using **GitHub Pages**.
 
-```txt
-login-pages/
-└── LOGIN/
-    └── index.html
-```
+### 🔗 Deployment URL
 
-Then your hosted website URL will be:
-
-```txt
-https://YOUR_USERNAME.github.io/login-pages/LOGIN/
-```
+https://nithisvaran-m.github.io/Login-pages/
 
 ---
 
 # 📸 Preview
 
-Add screenshots here.
+Add your project screenshot here.
 
 ```markdown
 ![Preview](screenshot.png)
@@ -121,22 +128,20 @@ Add screenshots here.
 
 ---
 
-# 🎯 Future Improvements
+# 🎯 Future Enhancements
 
 - Firebase Authentication
-- Dark Mode
-- Password Visibility Toggle
-- Form Validation
 - Backend Integration
-- Database Support
+- Dark/Light Theme Toggle
+- Password Strength Checker
+- Form Validation
+- Database Connectivity
 
 ---
 
 # 🤝 Contributing
 
 Contributions are welcome.
-
-If you'd like to improve this project:
 
 1. Fork the repository
 2. Create a new branch
@@ -149,47 +154,19 @@ If you'd like to improve this project:
 
 This project is licensed under the **MIT License**.
 
-You are free to:
+You are free to use, modify, and distribute this project.
 
-- Use
-- Modify
-- Distribute
-- Personalize
-
-for personal and commercial projects.
-
----
-
-# 📄 MIT License
-
-```txt
-MIT License
-
-Copyright (c) 2026 YOUR_NAME
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
-Create a file named:
-
-```txt
-LICENSE
-```
-
-and paste the full MIT license inside it.
-
-You can get the official MIT License text from:
-
-[MIT License Official Page](https://opensource.org/licenses/MIT?utm_source=chatgpt.com)
+Official License:  
+https://opensource.org/licenses/MIT
 
 ---
 
 <div align="center">
 
-## ⭐ Support
+# ⭐ Support the Project
 
 If you like this project, give it a ⭐ on GitHub.
+
+Made with ❤️ by **Nithisvaran**
 
 </div>
